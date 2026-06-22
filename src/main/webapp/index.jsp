@@ -4,10 +4,10 @@
 
 <a>Click Here To See Pythonlife Training Schedules</a>
   
-  <h2> Call Us : +91-9705970552 </h2>
+  <h2> Call Us : +91-9876543210 </h2>
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
-<p> THANKS FOR CHOOSING DEVOPS COURSE</p>
+<p> THANKS FOR CHOOSING DEVOPSECOPS WITH AWS !!!!!</p>
 <marquee>!!!!LEARN HERE AND LEAD ANYWHERE!!!! </marquee>
 
 
