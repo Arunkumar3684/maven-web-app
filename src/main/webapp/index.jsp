@@ -7,8 +7,8 @@
   <h2> Call Us : +91-9876543210 </h2>
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
-<p> THANKS FOR CHOOSING DEVOPSECOPS WITH AWS !!!!!</p>
-<marquee>!!!!LEARN HERE AND LEAD ANYWHERE!!!! </marquee>
+<p> THANKS FOR CHOOSING DevSecOps with AWS &&&&& AI !!!!!</p>
+<marquee>!!!!Learn Here and Lead any where!!!!!!!!! </marquee>
 
 
 </body>
