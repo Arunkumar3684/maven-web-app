@@ -7,7 +7,7 @@
   <h2> Call Us : +91-989898989</h2>
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
-<p> Hi Arun!!!!!</p>
+<p> Hi Arun bye arun!!!!!</p>
 <marquee>!!!!Learn Here and Lead any where!!!!!!!!! </marquee>
 
 
